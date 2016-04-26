@@ -2,7 +2,7 @@
 
 An alternative action sheet written in Swift. Inspired by the action sheet in Wechat and Weibo.
 
-<img src="demo.png" alt="actionsheet" style="width: 300px;"/>
+<img src="demo.png" alt="actionsheet" width="300"/>
 
 BTW, the App in the image is [Leetcoder](https://itunes.apple.com/app/leetcoder/id1069760709?mt=8).
 
